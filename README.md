@@ -1,2 +1,2 @@
 # Todo-app
-A Simple Todo App made using flutte.
+A Simple Todo App made using flutter.
